@@ -46,5 +46,10 @@ npm install
 Start the development server
 npm start
 
+![Home](src/screenshots/home.png)
+![Cart](src/screenshots/cart.png)
+![Checkout](src/screenshots/checkout.png)
+![Product](src/screenshots/product.png)
+![Products](src/screenshots/products.png)
 
 
