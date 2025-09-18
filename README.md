@@ -25,7 +25,7 @@ A **React-based E-commerce website** where users can browse and purchase product
 ## 🛠️ Tech Stack
 - **Frontend:** React.js, CSS
 - **Build Tool:** Vite
-- **State Management:** React useState & Context API (if used)
+- **State Management:** React useState & Context API
 - **Version Control:** Git & GitHub
 
 ---
